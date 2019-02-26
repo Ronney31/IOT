@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid = "Moto G (5S) Plus 4321";
-const char* password = "iotSession71";
+const char* ssid = "HOTSPOT_NAME";
+const char* password = "PASSWORD";
 
 int LED = D1 ;
 int FAN = D2 ;
