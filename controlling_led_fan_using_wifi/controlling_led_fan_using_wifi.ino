@@ -61,7 +61,7 @@ void loop(){
     delay(1);
   }
 
-  // Read the first linn of the request 
+  // Read the first line of the request 
   String request = client.readStringUntil('\r');
   Serial.println(request);
   client.flush();
