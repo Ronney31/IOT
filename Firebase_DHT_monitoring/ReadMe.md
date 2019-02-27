@@ -1,4 +1,4 @@
-## IOT Monitoring DHT senson via Firebase ( NodeMcu )
+## IOT Monitoring DHT sensor via Firebase ( NodeMcu )
 This project helps to connect your NodeMcu with internet without depending upon any thirdparty app or website ( _thingspeak, blynk, etc_ )
 just uploading and fetching data directly from Firebase.
 
